@@ -20,10 +20,15 @@
 <span style="background-color: #FFFF00">Hello Markdown</span>
 ```
 
-<span style="background-color: #FFFF00">Hello Markdown</span>
+<span style="color: orange;">Hello Markdown</span>
 
 ```
 <span class="evidence">Hello Markdown</span>
 ```
 
 <span class="evidence">Hello Markdown</span>
+
+
+<div class="text-gray-dark on .bg-green-light">
+  .text-gray-dark on .bg-green-light
+</div>
