@@ -7,17 +7,5 @@
 ```
 <ins>Hello Markdown</ins>
 
-
-## Highlight
-
-```html
-<div class="text-gray-dark on bg-green-light">
-  .text-gray-dark on .bg-green-light
-</div>
-```
-<span class="text-gray-dark on bg-green-light"> afasdfasdf </span>
-<div class="text-gray-dark on bg-green-light"> afasdfasdf </div>
-<pre class="text-gray-dark on bg-green-light"> afasdfasdf </pre>
-<div class="text-red bg-red-light mb-2">
-  .text-red on .bg-red-light
-</div>
+## Text highlight
+Failed :sob:
