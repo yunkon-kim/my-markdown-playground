@@ -32,3 +32,91 @@ Markdown
 
 ## Text highlight
 Failed :sob:
+
+## Table
+
+### Merge cells 
+
+#### Merge rows (updated on 2020-10-19)
+
+```html
+<table>
+<thead>
+  <tr class="header">
+    <th><strong> Header 1 </strong></th>
+    <th><strong> Header 2 </strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2"><p><strong>A</strong></p></td>
+    <td><p>B</p></td>
+  </tr>
+  <tr>
+    <!-- merged td -->
+    <td><p>C</p></td>
+  </tr>  
+  </tbody>
+</table>
+```
+
+<table>
+<thead>
+  <tr class="header">
+    <th><strong> Header 1 </strong></th>
+    <th><strong> Header 2 </strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2"><p><strong>A</strong></p></td>
+    <td><p>B</p></td>
+  </tr>
+  <tr>
+    <!-- merged td -->
+    <td><p>C</p></td>
+  </tr>  
+  </tbody>
+</table>
+
+#### Merge columns (updated on 2020-10-19)
+
+```html
+<table>
+<thead>
+  <tr class="header">
+    <th><strong> Header 1 </strong></th>
+    <th><strong> Header 2 </strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2"><p><strong>A</strong></p></td>
+    <!-- merged td -->
+  </tr>
+  <tr>
+    <td><p>C</p></td>
+    <td><p>D</p></td>
+  </tr>  
+  </tbody>
+</table>
+```
+
+<table>
+<thead>
+  <tr class="header">
+    <th><strong> Header 1 </strong></th>
+    <th><strong> Header 2 </strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2"><p><strong>A</strong></p></td>
+    <!-- merged td -->
+  </tr>
+  <tr>
+    <td><p>C</p></td>
+    <td><p>D</p></td>
+  </tr>  
+  </tbody>
+</table>
