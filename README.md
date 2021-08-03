@@ -122,15 +122,15 @@ Failed :sob:
 </table>
 
 ### Collapsible code block
-```
+<p>
 <details>
   <summary>Click to expand</summary>
   
-  \```bash
+  ```bash
   cd ${HOME}
-  \```
+  ```
 </details>
-```
+</p>
 
 <details>
   <summary>Click to expand</summary>
