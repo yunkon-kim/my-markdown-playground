@@ -120,3 +120,12 @@ Failed :sob:
   </tr>  
   </tbody>
 </table>
+
+### Collapsible code block
+<details>
+  <summary>Click to expand</summary>
+  
+  ```bash
+  cd ${HOME}
+  ```
+</details>
