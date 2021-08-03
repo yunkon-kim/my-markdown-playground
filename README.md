@@ -126,11 +126,10 @@ Failed :sob:
 <details>
   <summary>Click to expand</summary>
   
-  ```bash
+  \```bash
   cd ${HOME}
-  ```
+  \```
 </details>
-
 ```
 
 <details>
