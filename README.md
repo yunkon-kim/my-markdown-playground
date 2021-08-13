@@ -1,5 +1,8 @@
 # Alvin's Markdown Playground
 
+## Inner Link
+[Collapsible code block](#Collapsible-code-block)
+
 ## GitHub Markdown License Badges
 See [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
