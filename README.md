@@ -1,7 +1,11 @@
 # Alvin's Markdown Playground
 
 ## 1. Inner Link
-[Collapsible code block](#8.Collapsible-code-block)
+```
+[Collapsible code block](#8-Collapsible-code-block)
+```
+The anchor can work fine **without** the inclusion of the punctuation
+[8. Collapsible code block](#8-Collapsible-code-block)
 
 ## 2. GitHub Markdown License Badges
 See [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
