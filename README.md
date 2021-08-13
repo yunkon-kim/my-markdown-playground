@@ -5,6 +5,7 @@
 [Collapsible code block](#8-Collapsible-code-block)
 ```
 The anchor can work fine **without** the inclusion of the punctuation
+
 [8. Collapsible code block](#8-Collapsible-code-block)
 
 ## 2. GitHub Markdown License Badges
