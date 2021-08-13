@@ -3,7 +3,7 @@
 ## 1. Inner Link
 ```
 [7. Table](#7-Table)
-[7.1. Merge cells](#7-1-Merge-cells) 
+[7.1. Merge cells](#71-Merge-cells) 
 ```
 The anchor can work fine **without** the inclusion of the punctuation
 
