@@ -8,7 +8,8 @@
 The anchor can work fine **without** the inclusion of the punctuation
 
 [7. Table](#7-Table)
-[7.1. Merge cells](#7-1-Merge-cells) 
+
+[7.1. Merge cells](#7-1--Merge-cells) 
 
 ## 2. GitHub Markdown License Badges
 See [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
