@@ -1,23 +1,23 @@
 # Alvin's Markdown Playground
 
-## Inner Link
-[Collapsible code block](#Collapsible-code-block)
+## 1. Inner Link
+[Collapsible code block](#8.Collapsible-code-block)
 
-## GitHub Markdown License Badges
+## 2. GitHub Markdown License Badges
 See [here](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
-## GitHub Markdown Emoji Markup
+## 3. GitHub Markdown Emoji Markup
 See [here](https://gist.github.com/rxaviers/7360908)
 
 
-## Underline
+## 4. Underline
 ```
 <ins>Hello Markdown</ins>
 ```
 <ins>Hello Markdown</ins>
 
 
-## Line Breaks
+## 5. Line Breaks
 ```
 Hello  <!--Double space-->
 Markdown
@@ -33,14 +33,14 @@ Hello<br>
 Markdown
 
 
-## Text highlight
+## 6. Text highlight
 Failed :sob:
 
-## Table
+## 7. Table
 
-### Merge cells 
+### 7.1. Merge cells 
 
-#### Merge rows (updated on 2020-10-19)
+#### 7.1.1. Merge rows (updated on 2020-10-19)
 
 ```html
 <table>
@@ -82,7 +82,7 @@ Failed :sob:
   </tbody>
 </table>
 
-#### Merge columns (updated on 2020-10-19)
+#### 7.1.2. Merge columns (updated on 2020-10-19)
 
 ```html
 <table>
@@ -124,7 +124,7 @@ Failed :sob:
   </tbody>
 </table>
 
-### Collapsible code block
+## 8. Collapsible code block
 
     <details>
       <summary>Click to expand</summary>
