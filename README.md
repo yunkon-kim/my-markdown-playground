@@ -3,15 +3,21 @@
 ## 1. Inner Link
 ```
 [7. Table](#7-Table)
+
 [7. Table](#7-Table)
+
 [7.1. Merge cells](#71-Merge-cells) 
+
 [7.1. Merge cells](#71-Merge-cells) 
 ```
 The anchor can work fine **without** the inclusion of the punctuation
 
 [7. Table](#7-table)
+
 [7. Table](#7-table)
+
 [7.1. Merge cells](#71-merge-cells)
+
 [7.1. Merge cells](#71-merge-cells) 
 
 ## 2. GitHub Markdown License Badges
